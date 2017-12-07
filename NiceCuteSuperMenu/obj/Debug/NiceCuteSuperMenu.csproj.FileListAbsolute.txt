@@ -1,0 +1,6 @@
+c:\my documents\visual studio 2017\Projects\NiceCuteSuperMenu\NiceCuteSuperMenu\bin\Debug\NiceCuteSuperMenu.exe.config
+c:\my documents\visual studio 2017\Projects\NiceCuteSuperMenu\NiceCuteSuperMenu\bin\Debug\NiceCuteSuperMenu.exe
+c:\my documents\visual studio 2017\Projects\NiceCuteSuperMenu\NiceCuteSuperMenu\bin\Debug\NiceCuteSuperMenu.pdb
+c:\my documents\visual studio 2017\Projects\NiceCuteSuperMenu\NiceCuteSuperMenu\obj\Debug\NiceCuteSuperMenu.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\NiceCuteSuperMenu\NiceCuteSuperMenu\obj\Debug\NiceCuteSuperMenu.exe
+c:\my documents\visual studio 2017\Projects\NiceCuteSuperMenu\NiceCuteSuperMenu\obj\Debug\NiceCuteSuperMenu.pdb
