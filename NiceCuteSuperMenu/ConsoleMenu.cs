@@ -8,8 +8,8 @@ namespace NiceCuteSuperMenu
 {
     public class ConsoleMenu
     {
-        string[] menuItems;
-        int counter = 0;
+        private string[] menuItems;
+        private int counter = 0;
         public ConsoleMenu(string[] menuItems)
         {
             this.menuItems = menuItems;
