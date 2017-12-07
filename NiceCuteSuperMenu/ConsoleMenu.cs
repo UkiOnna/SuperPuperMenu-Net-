@@ -25,14 +25,23 @@ namespace NiceCuteSuperMenu
                 {
                     if (counter == i)
                     {
-                        Console.BackgroundColor = ConsoleColor.Cyan;
-                        Console.ForegroundColor = ConsoleColor.Black;
-                        Console.WriteLine(menuItems[i]);
-                        Console.BackgroundColor = ConsoleColor.Black;
+                        //Console.BackgroundColor = ConsoleColor.Cyan;
+                        Console.ForegroundColor = ConsoleColor.Magenta;
+                        var width = Console.WindowWidth;
+                        var padding = width / 2 + menuItems[i].Length / 2;
+                        Console.WriteLine("{0," + padding + "}", menuItems[i]);
+                    
+
+                    //Console.WriteLine("{50}", menuItems[i]);
+                        //Console.BackgroundColor = ConsoleColor.Black;
                         Console.ForegroundColor = ConsoleColor.White;
                     }
-                    else
-                        Console.WriteLine(menuItems[i]);
+                    else { 
+                        var width = Console.WindowWidth;
+                    var padding = width / 2 + menuItems[i].Length / 2;
+                    Console.WriteLine("{0," + padding + "}", menuItems[i]);
+                        // Console.WriteLine(menuItems[i]);
+                    }
 
                 }
                 key = Console.ReadKey();
